@@ -1,3 +1,7 @@
+# Guide
+
+https://dev.to/andrews1022/deploy-a-full-stack-nextjs-app-to-a-digitalocean-vps-with-docker-5f0m
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
